@@ -19,4 +19,5 @@ function PlantItem({ cover, name, water, light, price }) {
 	)
 }
 
+
 export default PlantItem
